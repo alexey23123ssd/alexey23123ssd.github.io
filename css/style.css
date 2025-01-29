@@ -29,6 +29,7 @@
         align-items: center;
         position:sticky;
         top:0px;
+        border-bottom:1px solid #55565A;
     }
 
     .burger-icon{
@@ -339,6 +340,7 @@
         align-items: center;
         position:sticky;
         top:0px; 
+        border-bottom:1px solid #55565A;
     }
 
     .burger-icon{
@@ -655,6 +657,7 @@
            align-items:center;
            position:sticky;
            top:0px;
+           border-bottom:1px solid #55565A;
        }
 
        .burger-icon{
